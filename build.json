@@ -1,0 +1,14 @@
+{
+
+	"flags": [
+		"--thread",
+		"-g --save-temps -X -w"
+	],
+	"packages":	[
+		"json-glib-1.0",
+		"gio-2.0",
+		"gee-1.0",
+		"posix"
+	],
+	"output": "gBuilder"
+}
