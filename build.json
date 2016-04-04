@@ -1,5 +1,4 @@
 {
-
 	"flags": [
 		"--thread",
 		"-g --save-temps -X -w"
